@@ -7,13 +7,10 @@
 
 
 
+[![mjsilvaa](https://github-readme-stats.vercel.app/api?username=mjsilvaa&show_icons=true&theme=highcontrast)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![mjsilvaa](https://github-readme-stats.vercel.app/api?username=mjsilvaa&show_icons=true&theme=highcontrast)
-
-Tecnologias que eu uso no meu dia-a-dia
-
+<h3>Tecnologias que eu uso no meu dia-a-dia</h3>
+<br/>
 <div style="display: inline_block">
     <img align="center alt=Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></div><div style="display: inline_block">
     <img align="center alt=Linux" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
@@ -37,6 +34,6 @@ Tecnologias que eu uso no meu dia-a-dia
     <img align="center alt=Linux" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </div><div style="display: inline_block">
     <img align="center alt=Linux" src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white">
-</div><div style="display: inline_block">
-    <img align="center alt=Linux" src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white">
-</div>
+
+<br/>
+<h3>Apaixonado por Família, Educação  e Tecnologia.</h3>
