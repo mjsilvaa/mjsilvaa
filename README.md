@@ -7,7 +7,7 @@
 
 
 
-[![mjsilvaa](https://github-readme-stats.vercel.app/api?username=mjsilvaa&show_icons=true&theme=highcontrast)]
+[![mjsilvaa](https://github-readme-stats.vercel.app/api?username=mjsilvaa&show_icons=true&theme=highcontrast)
 
 <h3>Tecnologias que eu uso no meu dia-a-dia</h3>
 <br/>
